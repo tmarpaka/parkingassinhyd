@@ -44,11 +44,25 @@
     //   attribution: '&copy; OpenStreetMap contributors'
     // }).addTo(map);
 
-    // Example marker
-    L.marker([17.3850, 78.4867])
-      .addTo(map)
-      .bindPopup('<b>Hyderabad</b><br>This is a marker.')
-      .openPopup();
+    // // Example marker
+    // L.marker([17.3850, 78.4867])
+    //   .addTo(map)
+    //   .bindPopup('<b>Hyderabad</b><br>This is a marker.')
+    //   .openPopup();
+    fetch('map.geojson')
+      .then(response => response.json())
+      .then(data => {
+        L.geoJSON(data, {
+          pointToLayer: function (feature, latlng) {
+            return L.marker(latlng);
+          },
+          onEachFeature: function (feature, layer) {
+            if (feature.properties && feature.properties.name) {
+              layer.bindPopup(feature.properties.name);
+            }
+          }
+        }).addTo(map);
+      });
   </script>
 
 </body>
