@@ -1,1 +1,817 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3702318,17.4732743,0]},"properties":{"name":"public benches @ RTO Kondapur Rd","styleUrl":"#icon-1582-795548-nodesc","icon-opacity":1,"icon-color":"#795548","icon-scale":1,"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3899741,17.487481,0]},"properties":{"name":"Open Seating Place","styleUrl":"#icon-1582-795548-nodesc","icon-opacity":1,"icon-color":"#795548","icon-scale":1,"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3896168,17.4880633,0]},"properties":{"name":"public bench @ kphb 6","description":{"@type":"html","value":"<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGScr3W-JyPxMOG80nSiOgqTVASGeWNImBDFx0lc_10AIDbSacP5cX8K4oUyxPhvA8muyOTST3Yuw0xCV7BebCmlPOES5M3T8cxJdJ4Q4vRylW0i30AEzQNVoI9yvEslQ_WUisrAqqWmTKERdCUUJTTXWm1Z_Z9UP6AekhBfl_pyUSR5XUv_qDUJ6-UDp8sSi_7LKQNfLinD877D0g224B6Ig4hy3GDD5FDOAn3KjmSM__mkt3I1460Iprk?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>"},"styleUrl":"#icon-1582-795548","icon-opacity":1,"icon-color":"#795548","icon-scale":1,"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png","gx_media_links":"https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGScr3W-JyPxMOG80nSiOgqTVASGeWNImBDFx0lc_10AIDbSacP5cX8K4oUyxPhvA8muyOTST3Yuw0xCV7BebCmlPOES5M3T8cxJdJ4Q4vRylW0i30AEzQNVoI9yvEslQ_WUisrAqqWmTKERdCUUJTTXWm1Z_Z9UP6AekhBfl_pyUSR5XUv_qDUJ6-UDp8sSi_7LKQNfLinD877D0g224B6Ig4hy3GDD5FDOAn3KjmSM__mkt3I1460Iprk?authuser=0&fife=s16383"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3678012,17.4939546,0]},"properties":{"name":"bench?","styleUrl":"#icon-1582-FF5252-nodesc","icon-opacity":1,"icon-color":"#ff5252","icon-scale":1,"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3779318,17.4959505,0]},"properties":{"name":"bench @ Srila Park Pride Rd","description":{"@type":"html","value":"<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRtV9By59mWw72UPcTVsjAQ2whO-qqfrZrq_IhgluiMkpL3ecsBOkSDeLSDdHDStrRNSbjAQ4mQ7FOPMoCQwVuoeLYI9SIyhj3kmQQo9IA5oAjt9yCXpCwIPVvdnRcS9gOUdwgIf6p6EM8vURfoBsG27wtfWH5hX_FFPC2guT9yhDao6jMa4j3R8MlKljvCsKJ9_qdM-d01VcdVP9Ju1f9g3B2gxPBUecl1kLGkrz_jmpU3GqXGuS4dBQU?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>"},"styleUrl":"#icon-1582-795548","icon-opacity":1,"icon-color":"#795548","icon-scale":1,"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png","gx_media_links":"https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRtV9By59mWw72UPcTVsjAQ2whO-qqfrZrq_IhgluiMkpL3ecsBOkSDeLSDdHDStrRNSbjAQ4mQ7FOPMoCQwVuoeLYI9SIyhj3kmQQo9IA5oAjt9yCXpCwIPVvdnRcS9gOUdwgIf6p6EM8vURfoBsG27wtfWH5hX_FFPC2guT9yhDao6jMa4j3R8MlKljvCsKJ9_qdM-d01VcdVP9Ju1f9g3B2gxPBUecl1kLGkrz_jmpU3GqXGuS4dBQU?authuser=0&fife=s16383"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3863594,17.4884125,0]},"properties":{"name":"bench @ kphb 6","styleUrl":"#icon-1582-795548-nodesc","icon-opacity":1,"icon-color":"#795548","icon-scale":1,"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3836859,17.4942703,0]},"properties":{"name":"bench @ vasanthnagar","styleUrl":"#icon-1582-795548-nodesc","icon-opacity":1,"icon-color":"#795548","icon-scale":1,"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3845618,17.4924286,0]},"properties":{"name":"bench @ vasanthnagar bus stop","styleUrl":"#icon-1582-795548-nodesc","icon-opacity":1,"icon-color":"#795548","icon-scale":1,"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3882562,17.4870463,0]},"properties":{"name":"seating @ pills pharmacy","description":{"@type":"html","value":"<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQUtFAFV4nr-ka5m201imif9VxYknkWjIvPOKyOCbda-v8hyv3S3ZAOmMG_3zdNEvZSYczO8RPkzveBBLoH2rx3plWdcb-qgX6tScqJ0ATRZhi0iApwCO9yLMKghB1j6wHkPn20Ys1b1t0AnxMTOhWAeOtq3V9K9DsXs-OxY_-6reOUBol3pKXZ-Dtbu2pOYdEuAY_sddPqmwLB_GAGBw-4NaDNBIW8jfomKKvSKpwdtIGILSTjvJgUiSI?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>jun 04 2025"},"styleUrl":"#icon-1582-795548","icon-opacity":1,"icon-color":"#795548","icon-scale":1,"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png","gx_media_links":"https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQUtFAFV4nr-ka5m201imif9VxYknkWjIvPOKyOCbda-v8hyv3S3ZAOmMG_3zdNEvZSYczO8RPkzveBBLoH2rx3plWdcb-qgX6tScqJ0ATRZhi0iApwCO9yLMKghB1j6wHkPn20Ys1b1t0AnxMTOhWAeOtq3V9K9DsXs-OxY_-6reOUBol3pKXZ-Dtbu2pOYdEuAY_sddPqmwLB_GAGBw-4NaDNBIW8jfomKKvSKpwdtIGILSTjvJgUiSI?authuser=0&fife=s16383"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3882211,17.4854409,0]},"properties":{"name":"seating @ pbb temple road branch sbi","description":{"@type":"html","value":"<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRAtlvBrVDnsO7e5p5n_4xo1NeSwCxzKhlq9-F1CvwANFgXO66A6vg0gjMfIJLRWYtbGNcSuWSdw7CFX93NcXoQggfG-8rOcVdH5KLsfUoH3vYH-uviXJNm7prt1U1fvSe1A0dz78soqIouoYmTbXFfOD88ify0FeQu5EfQ-z8TIcXxyir0V2EfTyytQkPVNbI4SNUPm3XyMJ8snG4uS1xjK-j8aWfBq_IUHN4dMcM3Bx7U8vhaOWCLrNc?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>june 1 2025"},"styleUrl":"#icon-1582-795548","icon-opacity":1,"icon-color":"#795548","icon-scale":1,"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png","gx_media_links":"https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRAtlvBrVDnsO7e5p5n_4xo1NeSwCxzKhlq9-F1CvwANFgXO66A6vg0gjMfIJLRWYtbGNcSuWSdw7CFX93NcXoQggfG-8rOcVdH5KLsfUoH3vYH-uviXJNm7prt1U1fvSe1A0dz78soqIouoYmTbXFfOD88ify0FeQu5EfQ-z8TIcXxyir0V2EfTyytQkPVNbI4SNUPm3XyMJ8snG4uS1xjK-j8aWfBq_IUHN4dMcM3Bx7U8vhaOWCLrNc?authuser=0&fife=s16383"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3877454,17.4728856,0]},"properties":{"name":"4th phase long seating","description":{"@type":"html","value":"<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQaHDSFEqK_cEigYRfOz-jegXzOn6jwGMP_rnC1zWsCSu_6P687dkfskr_uYL-NVpui4xjJPe13_4FA6QoAkEbgWV4iAntjpIcO59iv-BGV1WT3KKuBHyWBIu5Hk7V4WvvpJKmC0pxP5zrIoBUq49hF2b9wLXTDKnF2lnaK8o_B8nAxZIfrMP6_KNQ4xO2_BgdyE_J10RpbA-0xzBZLFYXZljD8Vcv0KGEmAw8kzEsf-uQsD7v6jc3sMwQ?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>long seating for big groups"},"styleUrl":"#icon-1582-795548","icon-opacity":1,"icon-color":"#795548","icon-scale":1,"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png","gx_media_links":"https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQaHDSFEqK_cEigYRfOz-jegXzOn6jwGMP_rnC1zWsCSu_6P687dkfskr_uYL-NVpui4xjJPe13_4FA6QoAkEbgWV4iAntjpIcO59iv-BGV1WT3KKuBHyWBIu5Hk7V4WvvpJKmC0pxP5zrIoBUq49hF2b9wLXTDKnF2lnaK8o_B8nAxZIfrMP6_KNQ4xO2_BgdyE_J10RpbA-0xzBZLFYXZljD8Vcv0KGEmAw8kzEsf-uQsD7v6jc3sMwQ?authuser=0&fife=s16383"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3901609,17.4890447,0]},"properties":{"name":"PV Narsimha Rao Park","styleUrl":"#icon-1899-0288D1-nodesc","icon-opacity":1,"icon-color":"#0288d1","icon-scale":1,"icon-offset":[32,64],"icon-offset-units":["pixels","insetPixels"],"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3823432,17.4952895,0]},"properties":{"name":"Vasanth Nagar Park","styleUrl":"#icon-1899-0288D1-nodesc","icon-opacity":1,"icon-color":"#0288d1","icon-scale":1,"icon-offset":[32,64],"icon-offset-units":["pixels","insetPixels"],"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3704999,17.4927118,0]},"properties":{"name":"Community Park","styleUrl":"#icon-1899-0288D1-nodesc","icon-opacity":1,"icon-color":"#0288d1","icon-scale":1,"icon-offset":[32,64],"icon-offset-units":["pixels","insetPixels"],"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3689375,17.4919375,0]},"properties":{"name":"hana park","description":"parks","styleUrl":"#icon-1899-0288D1","icon-opacity":1,"icon-color":"#0288d1","icon-scale":1,"icon-offset":[32,64],"icon-offset-units":["pixels","insetPixels"],"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3672967,17.4940776,0]},"properties":{"name":"Matrusri Park","styleUrl":"#icon-1899-0288D1-nodesc","icon-opacity":1,"icon-color":"#0288d1","icon-scale":1,"icon-offset":[32,64],"icon-offset-units":["pixels","insetPixels"],"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3883817,17.498549,0]},"properties":{"name":"seating @ jntu metro","description":{"@type":"html","value":"<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQagdUseAVPBw5_n_8onhuCYjgYM7P526OTfuU364tnOAREfqJeTf8Be5VYAxzTP-tQ9ZGQ_g6QUPktU4u1PqszCDAhdRCt6TagkxwfaVCXwOJz7i5jhH88u8gJ_mNhhucHmZfHF6jI5sF0pZ7jklVz2YxET6LnsdzJZD174Pv6hbN47oNAyItIXu41rSPs24vm0uhDDagLy90wXrQ1W0hgG9SAVOEsRz8-1XkUTR2WD5UPmGeD_Dtwp48?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>"},"styleUrl":"#icon-1582-795548","icon-opacity":1,"icon-color":"#795548","icon-scale":1,"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png","gx_media_links":"https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQagdUseAVPBw5_n_8onhuCYjgYM7P526OTfuU364tnOAREfqJeTf8Be5VYAxzTP-tQ9ZGQ_g6QUPktU4u1PqszCDAhdRCt6TagkxwfaVCXwOJz7i5jhH88u8gJ_mNhhucHmZfHF6jI5sF0pZ7jklVz2YxET6LnsdzJZD174Pv6hbN47oNAyItIXu41rSPs24vm0uhDDagLy90wXrQ1W0hgG9SAVOEsRz8-1XkUTR2WD5UPmGeD_Dtwp48?authuser=0&fife=s16383"}},{"type":"Feature","geometry":{"type":"LineString","coordinates":[[78.37821,17.49016,0],[78.37814,17.4902,0],[78.37808,17.49023,0],[78.37807,17.49023,0],[78.37792,17.49031,0],[78.37774,17.49041,0],[78.37725,17.49065,0],[78.37684,17.49086,0],[78.37646,17.49105,0],[78.37571,17.49143,0],[78.37546,17.49155,0],[78.37498,17.49177,0]]},"properties":{"name":"walky walks","styleUrl":"#line-1267FF-5000-nodesc","stroke-opacity":1,"stroke":"#1267ff","stroke-width":5}},{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3782111,17.4901616,0]},"properties":{"name":"F9QH+WC6, Salivahana Colony, Hafeezpet, Hyderabad, Telangana 500085, India","styleUrl":"#icon-1899-DB4436-nodesc","icon-opacity":1,"icon-color":"#db4436","icon-scale":1,"icon-offset":[32,64],"icon-offset-units":["pixels","insetPixels"],"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3749846,17.4917749,0]},"properties":{"name":"Srila Park Pride Rd, Salivahana Colony, Hafeezpet, Hyderabad, Telangana 500049, India","styleUrl":"#icon-1899-DB4436-nodesc","icon-opacity":1,"icon-color":"#db4436","icon-scale":1,"icon-offset":[32,64],"icon-offset-units":["pixels","insetPixels"],"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"}},{"type":"Feature","geometry":{"type":"LineString","coordinates":[[78.3771,17.47348,0],[78.37708,17.47348,0],[78.37704,17.47348,0],[78.37675,17.4735,0],[78.37641,17.47353,0],[78.37621,17.47356,0],[78.37616,17.47356,0],[78.37595,17.47358,0],[78.3756,17.47363,0],[78.37547,17.47364,0],[78.37504,17.47369,0],[78.37485,17.47371,0],[78.37451,17.47375,0],[78.37403,17.4738,0],[78.37373,17.47384,0],[78.37372,17.47384,0],[78.37354,17.47386,0],[78.37349,17.47387,0],[78.37322,17.47389,0],[78.37309,17.4739,0],[78.37299,17.4739,0],[78.37292,17.4739,0],[78.37281,17.47389,0],[78.37279,17.47388,0],[78.37269,17.47386,0],[78.3726,17.47383,0],[78.37253,17.47379,0],[78.37235,17.4737,0],[78.3722,17.47361,0],[78.37219,17.47361,0],[78.37209,17.47355,0],[78.37202,17.47352,0],[78.37195,17.4735,0],[78.37191,17.47349,0],[78.37184,17.47348,0],[78.37183,17.47348,0],[78.37172,17.47347,0],[78.37158,17.47346,0],[78.37139,17.47345,0],[78.37087,17.47344,0],[78.37059,17.47341,0],[78.37035,17.47337,0],[78.37025,17.47334,0],[78.37022,17.47333,0]]},"properties":{"name":"walky 2","styleUrl":"#line-1267FF-5000-nodesc","stroke-opacity":1,"stroke":"#1267ff","stroke-width":5}},{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3771047,17.4734774,0]},"properties":{"name":"F9FG+MVP, Izzathnagar, Hafeezpet, Hyderabad, Kothaguda, Telangana 500049, India","styleUrl":"#icon-1899-DB4436-nodesc","icon-opacity":1,"icon-color":"#db4436","icon-scale":1,"icon-offset":[32,64],"icon-offset-units":["pixels","insetPixels"],"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[78.3702195,17.4733322,0]},"properties":{"name":"Swimming Pool, World One School, Bikshapathi Nagar, Kondapur, Telangana 500084, India","styleUrl":"#icon-1899-DB4436-nodesc","icon-opacity":1,"icon-color":"#db4436","icon-scale":1,"icon-offset":[32,64],"icon-offset-units":["pixels","insetPixels"],"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3702318,
+                    17.4732743,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "public benches @ RTO Kondapur Rd",
+                "styleUrl": "#icon-1582-795548-nodesc",
+                "icon-opacity": 1,
+                "icon-color": "#795548",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3899741,
+                    17.487481,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Open Seating Place",
+                "styleUrl": "#icon-1582-795548-nodesc",
+                "icon-opacity": 1,
+                "icon-color": "#795548",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3896168,
+                    17.4880633,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "public bench @ kphb 6",
+                "description": {
+                    "@type": "html",
+                    "value": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGScr3W-JyPxMOG80nSiOgqTVASGeWNImBDFx0lc_10AIDbSacP5cX8K4oUyxPhvA8muyOTST3Yuw0xCV7BebCmlPOES5M3T8cxJdJ4Q4vRylW0i30AEzQNVoI9yvEslQ_WUisrAqqWmTKERdCUUJTTXWm1Z_Z9UP6AekhBfl_pyUSR5XUv_qDUJ6-UDp8sSi_7LKQNfLinD877D0g224B6Ig4hy3GDD5FDOAn3KjmSM__mkt3I1460Iprk?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>"
+                },
+                "styleUrl": "#icon-1582-795548",
+                "icon-opacity": 1,
+                "icon-color": "#795548",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGScr3W-JyPxMOG80nSiOgqTVASGeWNImBDFx0lc_10AIDbSacP5cX8K4oUyxPhvA8muyOTST3Yuw0xCV7BebCmlPOES5M3T8cxJdJ4Q4vRylW0i30AEzQNVoI9yvEslQ_WUisrAqqWmTKERdCUUJTTXWm1Z_Z9UP6AekhBfl_pyUSR5XUv_qDUJ6-UDp8sSi_7LKQNfLinD877D0g224B6Ig4hy3GDD5FDOAn3KjmSM__mkt3I1460Iprk?authuser=0&fife=s16383"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3678012,
+                    17.4939546,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "bench?",
+                "styleUrl": "#icon-1582-FF5252-nodesc",
+                "icon-opacity": 1,
+                "icon-color": "#ff5252",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3779318,
+                    17.4959505,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "bench @ Srila Park Pride Rd",
+                "description": {
+                    "@type": "html",
+                    "value": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRtV9By59mWw72UPcTVsjAQ2whO-qqfrZrq_IhgluiMkpL3ecsBOkSDeLSDdHDStrRNSbjAQ4mQ7FOPMoCQwVuoeLYI9SIyhj3kmQQo9IA5oAjt9yCXpCwIPVvdnRcS9gOUdwgIf6p6EM8vURfoBsG27wtfWH5hX_FFPC2guT9yhDao6jMa4j3R8MlKljvCsKJ9_qdM-d01VcdVP9Ju1f9g3B2gxPBUecl1kLGkrz_jmpU3GqXGuS4dBQU?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>"
+                },
+                "styleUrl": "#icon-1582-795548",
+                "icon-opacity": 1,
+                "icon-color": "#795548",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRtV9By59mWw72UPcTVsjAQ2whO-qqfrZrq_IhgluiMkpL3ecsBOkSDeLSDdHDStrRNSbjAQ4mQ7FOPMoCQwVuoeLYI9SIyhj3kmQQo9IA5oAjt9yCXpCwIPVvdnRcS9gOUdwgIf6p6EM8vURfoBsG27wtfWH5hX_FFPC2guT9yhDao6jMa4j3R8MlKljvCsKJ9_qdM-d01VcdVP9Ju1f9g3B2gxPBUecl1kLGkrz_jmpU3GqXGuS4dBQU?authuser=0&fife=s16383"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3863594,
+                    17.4884125,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "bench @ kphb 6",
+                "styleUrl": "#icon-1582-795548-nodesc",
+                "icon-opacity": 1,
+                "icon-color": "#795548",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3836859,
+                    17.4942703,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "bench @ vasanthnagar",
+                "styleUrl": "#icon-1582-795548-nodesc",
+                "icon-opacity": 1,
+                "icon-color": "#795548",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3845618,
+                    17.4924286,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "bench @ vasanthnagar bus stop",
+                "styleUrl": "#icon-1582-795548-nodesc",
+                "icon-opacity": 1,
+                "icon-color": "#795548",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3882562,
+                    17.4870463,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "seating @ pills pharmacy",
+                "description": {
+                    "@type": "html",
+                    "value": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQUtFAFV4nr-ka5m201imif9VxYknkWjIvPOKyOCbda-v8hyv3S3ZAOmMG_3zdNEvZSYczO8RPkzveBBLoH2rx3plWdcb-qgX6tScqJ0ATRZhi0iApwCO9yLMKghB1j6wHkPn20Ys1b1t0AnxMTOhWAeOtq3V9K9DsXs-OxY_-6reOUBol3pKXZ-Dtbu2pOYdEuAY_sddPqmwLB_GAGBw-4NaDNBIW8jfomKKvSKpwdtIGILSTjvJgUiSI?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>jun 04 2025"
+                },
+                "styleUrl": "#icon-1582-795548",
+                "icon-opacity": 1,
+                "icon-color": "#795548",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQUtFAFV4nr-ka5m201imif9VxYknkWjIvPOKyOCbda-v8hyv3S3ZAOmMG_3zdNEvZSYczO8RPkzveBBLoH2rx3plWdcb-qgX6tScqJ0ATRZhi0iApwCO9yLMKghB1j6wHkPn20Ys1b1t0AnxMTOhWAeOtq3V9K9DsXs-OxY_-6reOUBol3pKXZ-Dtbu2pOYdEuAY_sddPqmwLB_GAGBw-4NaDNBIW8jfomKKvSKpwdtIGILSTjvJgUiSI?authuser=0&fife=s16383"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3882211,
+                    17.4854409,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "seating @ pbb temple road branch sbi",
+                "description": {
+                    "@type": "html",
+                    "value": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRAtlvBrVDnsO7e5p5n_4xo1NeSwCxzKhlq9-F1CvwANFgXO66A6vg0gjMfIJLRWYtbGNcSuWSdw7CFX93NcXoQggfG-8rOcVdH5KLsfUoH3vYH-uviXJNm7prt1U1fvSe1A0dz78soqIouoYmTbXFfOD88ify0FeQu5EfQ-z8TIcXxyir0V2EfTyytQkPVNbI4SNUPm3XyMJ8snG4uS1xjK-j8aWfBq_IUHN4dMcM3Bx7U8vhaOWCLrNc?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>june 1 2025"
+                },
+                "styleUrl": "#icon-1582-795548",
+                "icon-opacity": 1,
+                "icon-color": "#795548",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRAtlvBrVDnsO7e5p5n_4xo1NeSwCxzKhlq9-F1CvwANFgXO66A6vg0gjMfIJLRWYtbGNcSuWSdw7CFX93NcXoQggfG-8rOcVdH5KLsfUoH3vYH-uviXJNm7prt1U1fvSe1A0dz78soqIouoYmTbXFfOD88ify0FeQu5EfQ-z8TIcXxyir0V2EfTyytQkPVNbI4SNUPm3XyMJ8snG4uS1xjK-j8aWfBq_IUHN4dMcM3Bx7U8vhaOWCLrNc?authuser=0&fife=s16383"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3877454,
+                    17.4728856,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "4th phase long seating",
+                "description": {
+                    "@type": "html",
+                    "value": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQaHDSFEqK_cEigYRfOz-jegXzOn6jwGMP_rnC1zWsCSu_6P687dkfskr_uYL-NVpui4xjJPe13_4FA6QoAkEbgWV4iAntjpIcO59iv-BGV1WT3KKuBHyWBIu5Hk7V4WvvpJKmC0pxP5zrIoBUq49hF2b9wLXTDKnF2lnaK8o_B8nAxZIfrMP6_KNQ4xO2_BgdyE_J10RpbA-0xzBZLFYXZljD8Vcv0KGEmAw8kzEsf-uQsD7v6jc3sMwQ?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>long seating for big groups"
+                },
+                "styleUrl": "#icon-1582-795548",
+                "icon-opacity": 1,
+                "icon-color": "#795548",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQaHDSFEqK_cEigYRfOz-jegXzOn6jwGMP_rnC1zWsCSu_6P687dkfskr_uYL-NVpui4xjJPe13_4FA6QoAkEbgWV4iAntjpIcO59iv-BGV1WT3KKuBHyWBIu5Hk7V4WvvpJKmC0pxP5zrIoBUq49hF2b9wLXTDKnF2lnaK8o_B8nAxZIfrMP6_KNQ4xO2_BgdyE_J10RpbA-0xzBZLFYXZljD8Vcv0KGEmAw8kzEsf-uQsD7v6jc3sMwQ?authuser=0&fife=s16383"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3901609,
+                    17.4890447,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "PV Narsimha Rao Park",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "icon-opacity": 1,
+                "icon-color": "#0288d1",
+                "icon-scale": 1,
+                "icon-offset": [
+                    32,
+                    64
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3823432,
+                    17.4952895,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vasanth Nagar Park",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "icon-opacity": 1,
+                "icon-color": "#0288d1",
+                "icon-scale": 1,
+                "icon-offset": [
+                    32,
+                    64
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3704999,
+                    17.4927118,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Community Park",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "icon-opacity": 1,
+                "icon-color": "#0288d1",
+                "icon-scale": 1,
+                "icon-offset": [
+                    32,
+                    64
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3689375,
+                    17.4919375,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "hana park",
+                "description": "parks",
+                "styleUrl": "#icon-1899-0288D1",
+                "icon-opacity": 1,
+                "icon-color": "#0288d1",
+                "icon-scale": 1,
+                "icon-offset": [
+                    32,
+                    64
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3672967,
+                    17.4940776,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Matrusri Park",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "icon-opacity": 1,
+                "icon-color": "#0288d1",
+                "icon-scale": 1,
+                "icon-offset": [
+                    32,
+                    64
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3883817,
+                    17.498549,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "seating @ jntu metro",
+                "description": {
+                    "@type": "html",
+                    "value": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQagdUseAVPBw5_n_8onhuCYjgYM7P526OTfuU364tnOAREfqJeTf8Be5VYAxzTP-tQ9ZGQ_g6QUPktU4u1PqszCDAhdRCt6TagkxwfaVCXwOJz7i5jhH88u8gJ_mNhhucHmZfHF6jI5sF0pZ7jklVz2YxET6LnsdzJZD174Pv6hbN47oNAyItIXu41rSPs24vm0uhDDagLy90wXrQ1W0hgG9SAVOEsRz8-1XkUTR2WD5UPmGeD_Dtwp48?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>"
+                },
+                "styleUrl": "#icon-1582-795548",
+                "icon-opacity": 1,
+                "icon-color": "#795548",
+                "icon-scale": 1,
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQagdUseAVPBw5_n_8onhuCYjgYM7P526OTfuU364tnOAREfqJeTf8Be5VYAxzTP-tQ9ZGQ_g6QUPktU4u1PqszCDAhdRCt6TagkxwfaVCXwOJz7i5jhH88u8gJ_mNhhucHmZfHF6jI5sF0pZ7jklVz2YxET6LnsdzJZD174Pv6hbN47oNAyItIXu41rSPs24vm0uhDDagLy90wXrQ1W0hgG9SAVOEsRz8-1XkUTR2WD5UPmGeD_Dtwp48?authuser=0&fife=s16383"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.37821,
+                        17.49016,
+                        0
+                    ],
+                    [
+                        78.37814,
+                        17.4902,
+                        0
+                    ],
+                    [
+                        78.37808,
+                        17.49023,
+                        0
+                    ],
+                    [
+                        78.37807,
+                        17.49023,
+                        0
+                    ],
+                    [
+                        78.37792,
+                        17.49031,
+                        0
+                    ],
+                    [
+                        78.37774,
+                        17.49041,
+                        0
+                    ],
+                    [
+                        78.37725,
+                        17.49065,
+                        0
+                    ],
+                    [
+                        78.37684,
+                        17.49086,
+                        0
+                    ],
+                    [
+                        78.37646,
+                        17.49105,
+                        0
+                    ],
+                    [
+                        78.37571,
+                        17.49143,
+                        0
+                    ],
+                    [
+                        78.37546,
+                        17.49155,
+                        0
+                    ],
+                    [
+                        78.37498,
+                        17.49177,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "walky walks",
+                "styleUrl": "#line-1267FF-5000-nodesc",
+                "stroke-opacity": 1,
+                "stroke": "#1267ff",
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3782111,
+                    17.4901616,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "F9QH+WC6, Salivahana Colony, Hafeezpet, Hyderabad, Telangana 500085, India",
+                "styleUrl": "#icon-1899-DB4436-nodesc",
+                "icon-opacity": 1,
+                "icon-color": "#db4436",
+                "icon-scale": 1,
+                "icon-offset": [
+                    32,
+                    64
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3749846,
+                    17.4917749,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Srila Park Pride Rd, Salivahana Colony, Hafeezpet, Hyderabad, Telangana 500049, India",
+                "styleUrl": "#icon-1899-DB4436-nodesc",
+                "icon-opacity": 1,
+                "icon-color": "#db4436",
+                "icon-scale": 1,
+                "icon-offset": [
+                    32,
+                    64
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.3771,
+                        17.47348,
+                        0
+                    ],
+                    [
+                        78.37708,
+                        17.47348,
+                        0
+                    ],
+                    [
+                        78.37704,
+                        17.47348,
+                        0
+                    ],
+                    [
+                        78.37675,
+                        17.4735,
+                        0
+                    ],
+                    [
+                        78.37641,
+                        17.47353,
+                        0
+                    ],
+                    [
+                        78.37621,
+                        17.47356,
+                        0
+                    ],
+                    [
+                        78.37616,
+                        17.47356,
+                        0
+                    ],
+                    [
+                        78.37595,
+                        17.47358,
+                        0
+                    ],
+                    [
+                        78.3756,
+                        17.47363,
+                        0
+                    ],
+                    [
+                        78.37547,
+                        17.47364,
+                        0
+                    ],
+                    [
+                        78.37504,
+                        17.47369,
+                        0
+                    ],
+                    [
+                        78.37485,
+                        17.47371,
+                        0
+                    ],
+                    [
+                        78.37451,
+                        17.47375,
+                        0
+                    ],
+                    [
+                        78.37403,
+                        17.4738,
+                        0
+                    ],
+                    [
+                        78.37373,
+                        17.47384,
+                        0
+                    ],
+                    [
+                        78.37372,
+                        17.47384,
+                        0
+                    ],
+                    [
+                        78.37354,
+                        17.47386,
+                        0
+                    ],
+                    [
+                        78.37349,
+                        17.47387,
+                        0
+                    ],
+                    [
+                        78.37322,
+                        17.47389,
+                        0
+                    ],
+                    [
+                        78.37309,
+                        17.4739,
+                        0
+                    ],
+                    [
+                        78.37299,
+                        17.4739,
+                        0
+                    ],
+                    [
+                        78.37292,
+                        17.4739,
+                        0
+                    ],
+                    [
+                        78.37281,
+                        17.47389,
+                        0
+                    ],
+                    [
+                        78.37279,
+                        17.47388,
+                        0
+                    ],
+                    [
+                        78.37269,
+                        17.47386,
+                        0
+                    ],
+                    [
+                        78.3726,
+                        17.47383,
+                        0
+                    ],
+                    [
+                        78.37253,
+                        17.47379,
+                        0
+                    ],
+                    [
+                        78.37235,
+                        17.4737,
+                        0
+                    ],
+                    [
+                        78.3722,
+                        17.47361,
+                        0
+                    ],
+                    [
+                        78.37219,
+                        17.47361,
+                        0
+                    ],
+                    [
+                        78.37209,
+                        17.47355,
+                        0
+                    ],
+                    [
+                        78.37202,
+                        17.47352,
+                        0
+                    ],
+                    [
+                        78.37195,
+                        17.4735,
+                        0
+                    ],
+                    [
+                        78.37191,
+                        17.47349,
+                        0
+                    ],
+                    [
+                        78.37184,
+                        17.47348,
+                        0
+                    ],
+                    [
+                        78.37183,
+                        17.47348,
+                        0
+                    ],
+                    [
+                        78.37172,
+                        17.47347,
+                        0
+                    ],
+                    [
+                        78.37158,
+                        17.47346,
+                        0
+                    ],
+                    [
+                        78.37139,
+                        17.47345,
+                        0
+                    ],
+                    [
+                        78.37087,
+                        17.47344,
+                        0
+                    ],
+                    [
+                        78.37059,
+                        17.47341,
+                        0
+                    ],
+                    [
+                        78.37035,
+                        17.47337,
+                        0
+                    ],
+                    [
+                        78.37025,
+                        17.47334,
+                        0
+                    ],
+                    [
+                        78.37022,
+                        17.47333,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "walky 2",
+                "styleUrl": "#line-1267FF-5000-nodesc",
+                "stroke-opacity": 1,
+                "stroke": "#1267ff",
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3771047,
+                    17.4734774,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "F9FG+MVP, Izzathnagar, Hafeezpet, Hyderabad, Kothaguda, Telangana 500049, India",
+                "styleUrl": "#icon-1899-DB4436-nodesc",
+                "icon-opacity": 1,
+                "icon-color": "#db4436",
+                "icon-scale": 1,
+                "icon-offset": [
+                    32,
+                    64
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3702195,
+                    17.4733322,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Swimming Pool, World One School, Bikshapathi Nagar, Kondapur, Telangana 500084, India",
+                "styleUrl": "#icon-1899-DB4436-nodesc",
+                "icon-opacity": 1,
+                "icon-color": "#db4436",
+                "icon-scale": 1,
+                "icon-offset": [
+                    32,
+                    64
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }
+    ]
+}
