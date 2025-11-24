@@ -37,6 +37,10 @@
 <nav class="navbar bg-body-tertiary">
   <div class="container-fluid">
     <span class="navbar-brand mb-0 h1 montserrat-500">parkingassinhyd</span>
+
+    <div type="button" class="btn btn-primary">
+  Number of benches documented <span class="badge text-bg-danger" id="no-of-benches"></span>
+</div>
   </div>
 </nav>
   <div id="map"></div>
@@ -75,6 +79,7 @@
     fetch('map.geojson')
       .then(response => response.json())
       .then(data => {
+        document.getElementById("no-of-benches").innerHtml = data.length;
         L.geoJSON(data, {
           pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {icon: benchIcon});
