@@ -1,20 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+    rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
 
   <title>parkingassinhyd</title>
 
   <!-- Leaflet CSS -->
-<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
 
   <style>
-    html, body {
+    html,
+    body {
       height: 100%;
       margin: 0;
     }
@@ -25,29 +30,31 @@
     }
 
     .montserrat-500 {
-  font-family: "Montserrat", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 500;
-  font-style: normal;
-}
+      font-family: "Montserrat", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 500;
+      font-style: normal;
+    }
   </style>
 </head>
 
 <body>
-<nav class="navbar bg-body-tertiary">
-  <div class="container-fluid">
-    <span class="navbar-brand mb-0 h1 montserrat-500">parkingassinhyd</span>
+  <nav class="navbar bg-body-tertiary">
+    <div class="container-fluid">
+      <span class="navbar-brand mb-0 h1 montserrat-500">parkingassinhyd</span>
 
-    <div type="button" class="btn btn-primary">
-  Number of benches documented <span class="badge text-bg-danger" id="no-of-benches"></span>
-</div>
-  </div>
-</nav>
+      <div class="badge text-bg-primary montserrat-500">
+        benches documented: <span id="no-of-benches" class="h4"></span>
+      </div>
+    </div>
+  </nav>
   <div id="map"></div>
 
   <!-- Leaflet JS -->
-<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+    crossorigin="anonymous"></script>
 
   <script>
     // Center on Hyderabad
@@ -58,7 +65,7 @@
       iconSize: [34, 36],        // adjust as needed
       iconAnchor: [16, 16],      // center the icon
       popupAnchor: [0, -16]      // popup above icon
-        });
+    });
 
     // Add OSM tile layer
     L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
@@ -79,10 +86,11 @@
     fetch('map.geojson')
       .then(response => response.json())
       .then(data => {
-        document.getElementById("no-of-benches").innerHtml = data.length;
+      console.log({data})
+        document.getElementById("no-of-benches").innerHTML = data.features.length;
         L.geoJSON(data, {
           pointToLayer: function (feature, latlng) {
-            return L.marker(latlng, {icon: benchIcon});
+            return L.marker(latlng, { icon: benchIcon });
           },
           onEachFeature: function (feature, layer) {
             if (feature.properties && feature.properties.name) {
@@ -94,4 +102,5 @@
   </script>
 
 </body>
+
 </html>
